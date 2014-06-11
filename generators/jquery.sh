@@ -37,7 +37,7 @@ do
 
 done
 
-echo "}, \"version\" : \"$1\" }" >> ../module.json
+echo "}, \"version\" : \"$1\", \"diff\" : \"negative\" }" >> ../module.json
 
 cat ../module.json | jsonlint
 
