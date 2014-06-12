@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"envelopes" : {
 		"jquery.js" : [
-			{ "name" : "jquery", "modules" : ["core"] }
+			{ "name" : "jquery", "modules" : ["core"], "version" : "2.1.1" }
 		]
 	}
 }

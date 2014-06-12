@@ -24,6 +24,7 @@ Generators assume the following commands are available
 * unzip
 * grunt (`[sudo] npm install grunt -g`)
 * diff/patch
+* python
 
 Most UNIX-like systems should have most of these, with the node-specific stuff available via NodeJS.
 
@@ -33,5 +34,5 @@ Generators are simply shell scripts which can be ran as expected.
 
 ### How to run generators
 
-* `./jquery.sh version-required` (You can find a list of valid versions by looking for a valid tag on
-  [the github](http://github.com/jquery/jquery))
+* `python magnific-popup.py version-required` (You can find a list of valid versions by looking for a valid tag on
+  [the github](https://github.com/dimsemenov/Magnific-Popup/))

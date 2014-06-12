@@ -5,6 +5,7 @@
 		"debug" : "*",
 		"commander" : "*",
 		"async" : "*",
-		"superagent" : "*"
+		"superagent" : "*",
+		"tmp" : "*"
 	}
 }
